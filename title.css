@@ -1,0 +1,33 @@
+.tangerine-regular {
+    font-family: "Tangerine", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .tangerine-bold {
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .page2{
+    font-size: 45px;
+  }
+
+  #ggg{
+    font-size: 23px;
+  }
+
+  .grid0 h1{
+    font-size: 40px;
+  }
+
+  h2{
+    font-size: 27px;
+    text-align: center;
+    margin: 0px;
+    
+  }
+
+  
+  
